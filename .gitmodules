@@ -1,0 +1,12 @@
+[submodule "mrquincle"]
+	path = mrquincle
+	url = git@github.com:mrquincle/aim_modules
+[submodule "time_series"]
+	path = time_series
+	url = git@github.com:rvlasveld/aim_modules
+[submodule "vliedel"]
+	path = vliedel
+	url = git@github.com:vliedel/aim_modules
+[submodule "marciwi"]
+	path = marciwi
+	url = https://github.com/marciwi/aim_modules
